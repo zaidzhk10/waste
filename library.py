@@ -1,1 +1,1 @@
-print ("zaid")
+print ("somu")
